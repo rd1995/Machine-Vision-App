@@ -4,7 +4,7 @@ Used Python with opencv,Xlwt,Pyqt5,Numpy etc library in this project.
 
 this library installation command is for windows.
 
-# install Library
+# 1. installtion for specific Library
 
 # To install opencv you can use following command
 opencv is used for computer vision and popular library when it comes to image processing.
